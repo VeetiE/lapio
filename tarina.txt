@@ -3,4 +3,7 @@ oijaodijadlaijdajdsadadadsa
 =======
 oijaodijadlaijdaj
 daokdapo
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

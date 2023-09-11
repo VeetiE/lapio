@@ -3,4 +3,4 @@ autoja
 jousia
 sulkia
 päärynää
-renkaita
+renkaitaa
